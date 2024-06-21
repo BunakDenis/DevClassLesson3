@@ -1,2 +1,6 @@
 
-t	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Îæþ°ƒ2
+š	java:S127D"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÝìþÜƒ2J$addaf122-99b1-4786-bb3d-0092fa83c68e
+l	java:S106"+Replace this use of System.out by a logger.(×à—!8êìþÜƒ2J$ee372977-1360-4133-b389-33fa6eaf8407
+½
+java:S6204 "zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8îìþÜƒ2J$1d924275-f00a-4a5d-951f-968bcf01d138
+ƒ	java:S125k"<This block of commented-out lines of code should be removed.(çõŠ­ùÿÿÿÿ8ûìþÜƒ2J$d1668c3a-43cf-4110-8c8a-dfbeaf383ed1
